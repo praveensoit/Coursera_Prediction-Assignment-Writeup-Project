@@ -1,7 +1,7 @@
 # Coursera_Prediction-Assignment-Writeup-Project
 Coursera - Practical Machine Learning - Prediction Assignment Writeup
 
-Link to html-file: https://Prediction-Assignment-Writeup/master/Prediction_Assignment_Writeup.html
+Link to html-file: https://praveensoit.github.io/Coursera_Prediction-Assignment-Writeup-Project/
 
 The training data for this project are available here:
 
